@@ -1,0 +1,352 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0E27234F1D2E508B00D0864F /* zagi2__jolly-cartoon-groove.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0E27234E1D2E508B00D0864F /* zagi2__jolly-cartoon-groove.wav */; };
+		0E2723511D2E57BE00D0864F /* euro-2016-offcial-match-soccer-ball-ac5415-thumb.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E2723501D2E57BE00D0864F /* euro-2016-offcial-match-soccer-ball-ac5415-thumb.png */; };
+		0E2723531D2E57CE00D0864F /* grass_stadium.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E2723521D2E57CE00D0864F /* grass_stadium.jpg */; };
+		0E2723551D2E583100D0864F /* 196463__paulw2k__football-crowd-cheer-jeers.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0E2723541D2E583100D0864F /* 196463__paulw2k__football-crowd-cheer-jeers.wav */; };
+		0E2723571D2E5A4E00D0864F /* football_stadium.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E2723561D2E5A4E00D0864F /* football_stadium.jpg */; };
+		0E2723591D2E5E2100D0864F /* football-crowd-goal.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0E2723581D2E5E2100D0864F /* football-crowd-goal.wav */; };
+		0E27235C1D2E69B700D0864F /* goal.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0E27235B1D2E69B700D0864F /* goal.wav */; };
+		0E2D08471D2D0BB6003D7BB7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E2D08461D2D0BB6003D7BB7 /* AppDelegate.swift */; };
+		0E2D08491D2D0BB6003D7BB7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E2D08481D2D0BB6003D7BB7 /* ViewController.swift */; };
+		0E2D084C1D2D0BB6003D7BB7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E2D084A1D2D0BB6003D7BB7 /* Main.storyboard */; };
+		0E2D084E1D2D0BB6003D7BB7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E2D084D1D2D0BB6003D7BB7 /* Assets.xcassets */; };
+		0E2D08511D2D0BB6003D7BB7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E2D084F1D2D0BB6003D7BB7 /* LaunchScreen.storyboard */; };
+		0E2D08641D2D128B003D7BB7 /* bowling-ball.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E2D08631D2D128B003D7BB7 /* bowling-ball.png */; };
+		0E2D08681D2D14FD003D7BB7 /* bowling-floor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E2D08671D2D14FD003D7BB7 /* bowling-floor.jpg */; };
+		0E9C02611D2EBBB400A92295 /* referee-whistle.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0E9C02601D2EBBB400A92295 /* referee-whistle.wav */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0E27234E1D2E508B00D0864F /* zagi2__jolly-cartoon-groove.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "zagi2__jolly-cartoon-groove.wav"; sourceTree = "<group>"; };
+		0E2723501D2E57BE00D0864F /* euro-2016-offcial-match-soccer-ball-ac5415-thumb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "euro-2016-offcial-match-soccer-ball-ac5415-thumb.png"; sourceTree = "<group>"; };
+		0E2723521D2E57CE00D0864F /* grass_stadium.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = grass_stadium.jpg; sourceTree = "<group>"; };
+		0E2723541D2E583100D0864F /* 196463__paulw2k__football-crowd-cheer-jeers.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "196463__paulw2k__football-crowd-cheer-jeers.wav"; sourceTree = "<group>"; };
+		0E2723561D2E5A4E00D0864F /* football_stadium.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = football_stadium.jpg; sourceTree = "<group>"; };
+		0E2723581D2E5E2100D0864F /* football-crowd-goal.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "football-crowd-goal.wav"; sourceTree = "<group>"; };
+		0E27235B1D2E69B700D0864F /* goal.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = goal.wav; sourceTree = "<group>"; };
+		0E2D08431D2D0BB6003D7BB7 /* NVHgoBowling.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NVHgoBowling.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0E2D08461D2D0BB6003D7BB7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		0E2D08481D2D0BB6003D7BB7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		0E2D084B1D2D0BB6003D7BB7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0E2D084D1D2D0BB6003D7BB7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0E2D08501D2D0BB6003D7BB7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		0E2D08521D2D0BB6003D7BB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0E2D08631D2D128B003D7BB7 /* bowling-ball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bowling-ball.png"; sourceTree = "<group>"; };
+		0E2D08671D2D14FD003D7BB7 /* bowling-floor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "bowling-floor.jpg"; sourceTree = "<group>"; };
+		0E9C02601D2EBBB400A92295 /* referee-whistle.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "referee-whistle.wav"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0E2D08401D2D0BB6003D7BB7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0E27235A1D2E5E2700D0864F /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				0E9C02601D2EBBB400A92295 /* referee-whistle.wav */,
+				0E27235B1D2E69B700D0864F /* goal.wav */,
+				0E2723581D2E5E2100D0864F /* football-crowd-goal.wav */,
+				0E2723541D2E583100D0864F /* 196463__paulw2k__football-crowd-cheer-jeers.wav */,
+				0E27234E1D2E508B00D0864F /* zagi2__jolly-cartoon-groove.wav */,
+			);
+			name = Sounds;
+			sourceTree = "<group>";
+		};
+		0E2D083A1D2D0BB6003D7BB7 = {
+			isa = PBXGroup;
+			children = (
+				0E2D08451D2D0BB6003D7BB7 /* NVHgoBowling */,
+				0E2D08441D2D0BB6003D7BB7 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0E2D08441D2D0BB6003D7BB7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0E2D08431D2D0BB6003D7BB7 /* NVHgoBowling.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0E2D08451D2D0BB6003D7BB7 /* NVHgoBowling */ = {
+			isa = PBXGroup;
+			children = (
+				0E27235A1D2E5E2700D0864F /* Sounds */,
+				0E2D08581D2D0BD0003D7BB7 /* Resources */,
+				0E2D08461D2D0BB6003D7BB7 /* AppDelegate.swift */,
+				0E2D08481D2D0BB6003D7BB7 /* ViewController.swift */,
+				0E2D084A1D2D0BB6003D7BB7 /* Main.storyboard */,
+				0E2D084D1D2D0BB6003D7BB7 /* Assets.xcassets */,
+				0E2D084F1D2D0BB6003D7BB7 /* LaunchScreen.storyboard */,
+				0E2D08521D2D0BB6003D7BB7 /* Info.plist */,
+			);
+			path = NVHgoBowling;
+			sourceTree = "<group>";
+		};
+		0E2D08581D2D0BD0003D7BB7 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				0E2723561D2E5A4E00D0864F /* football_stadium.jpg */,
+				0E2723521D2E57CE00D0864F /* grass_stadium.jpg */,
+				0E2723501D2E57BE00D0864F /* euro-2016-offcial-match-soccer-ball-ac5415-thumb.png */,
+				0E2D08671D2D14FD003D7BB7 /* bowling-floor.jpg */,
+				0E2D08631D2D128B003D7BB7 /* bowling-ball.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0E2D08421D2D0BB6003D7BB7 /* NVHgoBowling */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0E2D08551D2D0BB6003D7BB7 /* Build configuration list for PBXNativeTarget "NVHgoBowling" */;
+			buildPhases = (
+				0E2D083F1D2D0BB6003D7BB7 /* Sources */,
+				0E2D08401D2D0BB6003D7BB7 /* Frameworks */,
+				0E2D08411D2D0BB6003D7BB7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = NVHgoBowling;
+			productName = NVHgoBowling;
+			productReference = 0E2D08431D2D0BB6003D7BB7 /* NVHgoBowling.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0E2D083B1D2D0BB6003D7BB7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = MobileSoftware;
+				TargetAttributes = {
+					0E2D08421D2D0BB6003D7BB7 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 0E2D083E1D2D0BB6003D7BB7 /* Build configuration list for PBXProject "NVHgoBowling" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0E2D083A1D2D0BB6003D7BB7;
+			productRefGroup = 0E2D08441D2D0BB6003D7BB7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0E2D08421D2D0BB6003D7BB7 /* NVHgoBowling */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0E2D08411D2D0BB6003D7BB7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0E27234F1D2E508B00D0864F /* zagi2__jolly-cartoon-groove.wav in Resources */,
+				0E2723511D2E57BE00D0864F /* euro-2016-offcial-match-soccer-ball-ac5415-thumb.png in Resources */,
+				0E2D08511D2D0BB6003D7BB7 /* LaunchScreen.storyboard in Resources */,
+				0E27235C1D2E69B700D0864F /* goal.wav in Resources */,
+				0E2D08641D2D128B003D7BB7 /* bowling-ball.png in Resources */,
+				0E9C02611D2EBBB400A92295 /* referee-whistle.wav in Resources */,
+				0E2723551D2E583100D0864F /* 196463__paulw2k__football-crowd-cheer-jeers.wav in Resources */,
+				0E2D084E1D2D0BB6003D7BB7 /* Assets.xcassets in Resources */,
+				0E2723571D2E5A4E00D0864F /* football_stadium.jpg in Resources */,
+				0E2D084C1D2D0BB6003D7BB7 /* Main.storyboard in Resources */,
+				0E2723531D2E57CE00D0864F /* grass_stadium.jpg in Resources */,
+				0E2723591D2E5E2100D0864F /* football-crowd-goal.wav in Resources */,
+				0E2D08681D2D14FD003D7BB7 /* bowling-floor.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0E2D083F1D2D0BB6003D7BB7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0E2D08491D2D0BB6003D7BB7 /* ViewController.swift in Sources */,
+				0E2D08471D2D0BB6003D7BB7 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		0E2D084A1D2D0BB6003D7BB7 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0E2D084B1D2D0BB6003D7BB7 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		0E2D084F1D2D0BB6003D7BB7 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0E2D08501D2D0BB6003D7BB7 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		0E2D08531D2D0BB6003D7BB7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0E2D08541D2D0BB6003D7BB7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0E2D08561D2D0BB6003D7BB7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = NVHgoBowling/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = vn.mobilesoftware.NVHgoBowling;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		0E2D08571D2D0BB6003D7BB7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = NVHgoBowling/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = vn.mobilesoftware.NVHgoBowling;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0E2D083E1D2D0BB6003D7BB7 /* Build configuration list for PBXProject "NVHgoBowling" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0E2D08531D2D0BB6003D7BB7 /* Debug */,
+				0E2D08541D2D0BB6003D7BB7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0E2D08551D2D0BB6003D7BB7 /* Build configuration list for PBXNativeTarget "NVHgoBowling" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0E2D08561D2D0BB6003D7BB7 /* Debug */,
+				0E2D08571D2D0BB6003D7BB7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0E2D083B1D2D0BB6003D7BB7 /* Project object */;
+}
